@@ -1,18 +1,13 @@
-<h2 align="center">Hey there! My name's Caio A. Andrade.</h2>
-
-    I'm a student of Programming, Systems Analysis and Development | Embarque Digital | Designer and Digital Illustrator.
-
-###
-
 <div align="center">
-    <img src="https://64.media.tumblr.com/352a71f30fc032bb23b0e434d3c3c748/tumblr_mniten1Lhs1r3yxp8o1_500.gif" height="200">
-</div>
+  <h2 align="center">Hey there! My name's Caio A. Andrade.</h2>
+    <p>I'm a student of Programming, Systems Analysis and Development | Embarque Digital | Designer and Digital Illustrator.</p>
+  <img src="https://64.media.tumblr.com/352a71f30fc032bb23b0e434d3c3c748/tumblr_mniten1Lhs1r3yxp8o1_500.gif" height="200"> 
 
 ###
 
-    I'm a fourth-year ADS student with a basic level of front-end knowledge. 
-    
-    I work freelance as a Graphic Designer, Multimedia Designer and mainly as an Illustrator. I've had experience with the latter for a few years and I'm looking to expand my knowledge of digital media.
+  <p>I'm a fourth-year ADS student with a basic level of front-end knowledge. I work freelance as a Graphic Designer, Multimedia Designer and mainly as an Illustrator. I've had experience with the latter for a few years and I'm looking to expand my knowledge of digital media.
+  </p>
+</div>
 
 ###
 
@@ -76,7 +71,7 @@
 ###
 
 <div align="center">
-  <img align="center" src="https://i0.wp.com/desculpenaoouvi.com.br/wp-content/uploads/bmo.gif?resize=720%2C363&ssl=1" height="150" />
+  <img src="https://i0.wp.com/desculpenaoouvi.com.br/wp-content/uploads/bmo.gif?resize=720%2C363&ssl=1" height="150" />
 </div>
 
 ###
