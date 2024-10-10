@@ -1,15 +1,20 @@
+<h2 align="center">Hey there! My name's Caio A. Andrade.</h2>
+
+    I'm a student of Programming, Systems Analysis and Development | Embarque Digital | Designer and Digital Illustrator.
+
+###
 
 <div align="center">
-  <h2>Hey there! My name's Caio A. Andrade.</h2>
-  <p>I'm a student of Programming, Systems Analysis and Development <br> Embarque Digital | Designer and Digital Illustrator.</p>
-    <img src="https://64.media.tumblr.com/352a71f30fc032bb23b0e434d3c3c748/tumblr_mniten1Lhs1r3yxp8o1_500.gif" height="170">
-
-  <p>I'm a fourth-year ADS student with a basic level of front-end knowledge. 
-
-  I work freelance as a Graphic Designer, Multimedia Designer and mainly as an Illustrator. I've had experience with the latter for a few years and I'm looking to expand my knowledge of digital media.</p>
+    <img src="https://64.media.tumblr.com/352a71f30fc032bb23b0e434d3c3c748/tumblr_mniten1Lhs1r3yxp8o1_500.gif" height="200">
 </div>
 
-##
+###
+
+    I'm a fourth-year ADS student with a basic level of front-end knowledge. 
+    
+    I work freelance as a Graphic Designer, Multimedia Designer and mainly as an Illustrator. I've had experience with the latter for a few years and I'm looking to expand my knowledge of digital media.
+
+###
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
@@ -61,7 +66,21 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="550" height="145" alt="">
 </div>
 
+#
+###
+
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=amareloazedo&icon=5&color=12" />
+  <h3>Thats it, have a nice day!</h3>
 </div>
 
+###
+
+<div align="center">
+  <img align="center" src="https://i0.wp.com/desculpenaoouvi.com.br/wp-content/uploads/bmo.gif?resize=720%2C363&ssl=1" height="150" />
+</div>
+
+###
+
+<div align="center">
+  <img align="center" src="https://visitcount.itsvg.in/api?id=amareloazedo&icon=5&color=12" />
+</div>
